@@ -4,6 +4,8 @@
 
 ### Nonfiction
 - **Measurement** by Paul Lockhart *(in progress)* 
+- **Justice: What's the Right Thing to Do** by Michael Sandel *(in progress)*
+- **Turtles All the Way Down** by John Greene *(completed Dec 31)* 
 - **Shoe Dog** by Phil Knight *(completed in Nov)*
 - **Bad Blood** by John Carreyrou *(completed Aug 3)*
 - **Being Mortal** by Atul Gawande *(completed Jun 5)*
@@ -17,11 +19,6 @@
 - **Rebooting AI** by Gary Marcus and Ernest Davis *(completed, Oct)*
 
 ### Queue
-- **Justice: What's the Right Thing to Do** by Michael Sandel 
 - **The Enigma of Reason** by Hugo Mercier  
 - **The Book of Why: The New Science of Cause and Effect** by Judea Pearl, Dana Mackenzie
 - **On Being a Therapist** by Jeffrey A. Kottler
-
-
-
-
