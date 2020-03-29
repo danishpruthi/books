@@ -3,13 +3,14 @@
 ## 2020
 ### Nonfiction
 - **The Elephant in the Brain: Hidden Motives in Everyday Life** by Kevin Simler and Robin Hanson  *(completed Mar 7)*
+- **Justice: What's the Right Thing to Do** by Michael Sandel *(completed Mar 28)*
+
 
 
 ## 2019
 
 ### Nonfiction
 - **Measurement** by Paul Lockhart *(in progress)* 
-- **Justice: What's the Right Thing to Do** by Michael Sandel *(in progress)*
 - **Turtles All the Way Down** by John Greene *(completed Dec 31)* 
 - **Shoe Dog** by Phil Knight *(completed in Nov)*
 - **Bad Blood** by John Carreyrou *(completed Aug 3)*
