@@ -2,6 +2,7 @@
 
 ## 2020
 ### Nonfiction
+- **Grit: The Power of Passion and Perseverance** by Angela Duckworth *(completed Apr 18)*
 - **The Elephant in the Brain: Hidden Motives in Everyday Life** by Kevin Simler and Robin Hanson  *(completed Mar 7)*
 - **Justice: What's the Right Thing to Do** by Michael Sandel *(completed Mar 28)*
 
