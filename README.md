@@ -2,6 +2,7 @@
 
 ## 2020
 ### Nonfiction
+- **Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber** by Susan Fowler *(completed June 24)*
 - **Grit: The Power of Passion and Perseverance** by Angela Duckworth *(completed Apr 18)*
 - **The Elephant in the Brain: Hidden Motives in Everyday Life** by Kevin Simler and Robin Hanson  *(completed Mar 7)*
 - **Justice: What's the Right Thing to Do** by Michael Sandel *(completed Mar 28)*
