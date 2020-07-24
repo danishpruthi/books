@@ -2,6 +2,7 @@
 
 ## 2020
 ### Nonfiction
+- **Becoming** by Michelle Obama *(completed July 23)* 
 - **Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber** by Susan Fowler *(completed June 24)*
 - **Grit: The Power of Passion and Perseverance** by Angela Duckworth *(completed Apr 18)*
 - **The Elephant in the Brain: Hidden Motives in Everyday Life** by Kevin Simler and Robin Hanson  *(completed Mar 7)*
