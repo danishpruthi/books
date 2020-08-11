@@ -2,6 +2,7 @@
 
 ## 2020
 ### Nonfiction
+- **The World as It Is: A Memoir of the Obama White House** by Ben Rhodes *(completed Aug 11)* 
 - **Becoming** by Michelle Obama *(completed July 23)* 
 - **Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber** by Susan Fowler *(completed June 24)*
 - **Grit: The Power of Passion and Perseverance** by Angela Duckworth *(completed Apr 18)*
