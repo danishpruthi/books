@@ -2,6 +2,7 @@
 
 ## 2020
 ### Nonfiction
+- **Prisoners of Geography: Ten Maps That Tell You Everything You Need To Know About Global Politics** by Tim Marshall *(completed Oct 25)*
 - **Obama: An Intimate Portrait** by Pete Souza *(completed Aug 13)* 
 - **The World as It Is: A Memoir of the Obama White House** by Ben Rhodes *(completed Aug 11)* 
 - **Becoming** by Michelle Obama *(completed July 23)* 
