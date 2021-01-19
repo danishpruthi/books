@@ -1,7 +1,16 @@
 # Books
 
+
+## 2021
+### Fiction
+- **Book Thief** by Markus Zusak *(completed Jan 19)*
+
 ## 2020
 ### Nonfiction
+- **Doing Good Better: How Effective Altruism Can Help You Make a Difference** by William MacAskill *(completed Nov 20)* 
+- **r2i: Return to India: A tale of living India-genously** by Parth Pandya *(completed Nov 29)*
+- **Troublesome Words: A Writer's Guide to Getting It Right** by Bill Bryson *(completed Nov 13)*
+- **The Moment of Lift: How Empowering Women Changes the World** by Melinda Gates *(completed Nov 11)*
 - **Prisoners of Geography: Ten Maps That Tell You Everything You Need To Know About Global Politics** by Tim Marshall *(completed Oct 25)*
 - **Obama: An Intimate Portrait** by Pete Souza *(completed Aug 13)* 
 - **The World as It Is: A Memoir of the Obama White House** by Ben Rhodes *(completed Aug 11)* 
