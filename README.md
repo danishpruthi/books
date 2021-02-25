@@ -3,6 +3,7 @@
 
 ## 2021
 ### Fiction
+- **Humor, Seriously** by Jennifer Aaker & Naomi Bagdonas *(completed Feb 25)*
 - **Book Thief** by Markus Zusak *(completed Jan 19)*
 
 ## 2020
