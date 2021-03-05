@@ -3,8 +3,10 @@
 
 ## 2021
 ### Fiction
+- **A Promised Land** by Barack Obama *(completed Mar 4)*
 - **Humor, Seriously** by Jennifer Aaker & Naomi Bagdonas *(completed Feb 25)*
 - **Book Thief** by Markus Zusak *(completed Jan 19)*
+
 
 ## 2020
 ### Nonfiction
