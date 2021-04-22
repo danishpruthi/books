@@ -3,6 +3,7 @@
 
 ## 2021
 ### Fiction
+- **Maybe You Should Talk to Someone: A Therapist, Her Therapist, and Our Lives Revealed** by Lori Gottlieb *(completed Apr 22)*
 - **A Promised Land** by Barack Obama *(completed Mar 4)*
 - **Humor, Seriously** by Jennifer Aaker & Naomi Bagdonas *(completed Feb 25)*
 - **Book Thief** by Markus Zusak *(completed Jan 19)*
