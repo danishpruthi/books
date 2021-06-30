@@ -3,6 +3,7 @@
 
 ## 2021
 
+- **A Man Called Ove** by Fredrik Backman *(Completed June 30)*
 - **How to Avoid a Climate Disaster** by Bill Gates *(completed May 24)* 
 - **The Scout Mindset: Why Some People See Things Clearly and Others Don't** by Julia Galef *(completed May 2)* 
 - **Maybe You Should Talk to Someone: A Therapist, Her Therapist, and Our Lives Revealed** by Lori Gottlieb *(completed Apr 22)*
