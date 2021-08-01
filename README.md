@@ -3,6 +3,8 @@
 
 ## 2021
 
+- **The Everything Store: Jeff Bezos and the Age of Amazon** by Brad Stone *(completed Aug 1)* 
+- **Remote: Office Not Required** by David Heinemeier Hansson and Jason Fried *(completed Aug 1)*
 - **Custodians of the Internet: Platforms, Content Moderation, and the Hidden Decisions That Shape Social Media** by Tarleton Gillespie *(completed July 19)*
 - **A Man Called Ove** by Fredrik Backman *(completed June 30)*
 - **How to Avoid a Climate Disaster** by Bill Gates *(completed May 24)* 
