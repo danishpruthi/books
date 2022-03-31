@@ -1,6 +1,15 @@
 # Books
 
 
+## 2022
+- **The Audacity of Hope** by Barack Obama *(currently reading)* 
+- **Intimacies** by Katie Kitamura *(completed Mar 10)*
+- **Genius Makers: The Mavericks Who Brought AI to Google, Facebook, and the World** by Cade Metz *(completed Feb 19)*
+- **Better: A Surgeon's Notes on Performance** by Atul Gawande *(completed Feb 19)*
+- **Beartown** by Fredrick Backman *(completed Feb 15)*
+- **Dear America: Notes of an Undocumented Citizen** by Jose Antonio Vargas *(completed Jan 18)*
+- **What I Talk About When I Talk About Running** by Haruki Murakami *(completed Jan 18)* 
+
 ## 2021
 
 - **The Everything Store: Jeff Bezos and the Age of Amazon** by Brad Stone *(completed Aug 1)* 
