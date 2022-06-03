@@ -2,7 +2,8 @@
 
 
 ## 2022
-- **The Audacity of Hope** by Barack Obama *(currently reading)* 
+- **My Life** (Volume 1) by Bill Clinton *(completed Jun 3)* 
+- **The Audacity of Hope** by Barack Obama *(completed April 15)* 
 - **Intimacies** by Katie Kitamura *(completed Mar 10)*
 - **Genius Makers: The Mavericks Who Brought AI to Google, Facebook, and the World** by Cade Metz *(completed Feb 19)*
 - **Better: A Surgeon's Notes on Performance** by Atul Gawande *(completed Feb 19)*
