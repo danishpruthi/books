@@ -2,6 +2,17 @@
 
 
 ## 2022
+
+### Currently Reading
+- **First in His Class: A Biography Of Bill Clinton** by David Maraniss 
+- **The Reading List** by Sara Nisha Adams
+
+### In Queue
+- **You May Also Like: Taste in an Age of Endless Choice** by Tom Vanderbilt
+- **The Girl on the Train** by Paula Hawkins
+
+### Completed 
+- **First in His Class: A Biography Of Bill Clinton** by Bill Clinton *(currently reading)* 
 - **My Life** (Volume 1) by Bill Clinton *(completed Jun 3)* 
 - **The Audacity of Hope** by Barack Obama *(completed April 15)* 
 - **Intimacies** by Katie Kitamura *(completed Mar 10)*
